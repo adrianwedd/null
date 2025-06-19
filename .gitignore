@@ -1,0 +1,6 @@
+# Ignore archive directory content
+archive/**
+!archive/.gitkeep
+
+# Ignore any future prompt archive markdown files in any location
+*_ARCHIVE*.md
